@@ -1,4 +1,4 @@
-// tunable parameters — one place to adjust everything
+// tunable parameters
 
 pub struct Config {
     // probe settings

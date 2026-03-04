@@ -1,4 +1,4 @@
-// TUI rendering — map with ping rays, stats panel, log panel
+// TUI rendering: map with ping rays, stats panel, log panel
 
 use crate::app::App;
 use crate::config::Config;

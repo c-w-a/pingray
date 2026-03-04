@@ -1,4 +1,4 @@
-// pingray — TUI network ping visualizer
+// pingray
 
 use anyhow::Result;
 use crossterm::event::{Event, EventStream, KeyCode};
